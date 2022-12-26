@@ -50,10 +50,6 @@ The research process begins with first laying out a Table of Contents.
 
 This keeps the research bounded.
 
-If you are collaborating with other authors, DO NOT delete any existing work.
-Either only add, or create a copy of the document with your updates. For example,
-if you wish to make a complete update to `doc00.md`, copy the contents into a 
-`doc00_01.md` and add an `update` field to the metadata block describing the update.
+Add notes in each section to help other authors know what is required. 
 
-Refer to `docs/00_example/doc00_01.md`
-
+Authors can then asynchronously complete sections and do the research required for each.
