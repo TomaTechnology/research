@@ -1,5 +1,5 @@
 ---
-title: A sound unit of account for craftsmen
+title: Focus on your craft
 author: Vishal Menon
 genesis: Monday, 26th December
 update: Changed content in overview
