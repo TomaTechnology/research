@@ -5,7 +5,7 @@ genesis: Monday, 26th December
 update: Changed content in overview
 ---
 
-# example
+# Focus on your craft
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
