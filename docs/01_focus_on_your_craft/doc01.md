@@ -15,6 +15,7 @@ update: Changed content in overview
 5. [The internals dont' matter](#internals-dont-matter)
 6. [Reserve strategies](#reserve-strategies)
 7. [Extending life](#extending-life)
+8. [Closing comments](#closing-comments)
 
 ### Executive Summary
 The goal of this document is to help businesses and individuals understand why adopting a sound unit of account is capable of transforming their organization and bringing back quality to their craft. Businesses can start off by simply maintaining their reserve account in Bitcoin and over time, move into accepting Bitcoin for the sale of their goods or services.
@@ -32,3 +33,5 @@ The meaningless need to build applications on a blockchain and the misunderstand
 ### Reserve strategies
 
 ### Extending life
+
+### Closing comments
