@@ -7,7 +7,7 @@ This repo is used to organize assets and documentation for TomaTech's research p
 
 For authors, the primary directory of concern is `docs`.
 
-Below is the directory structure:
+Given below is the directory structure:
 
 ```
 .
